@@ -1,0 +1,5 @@
+main: nl.trydev07.bettersmp.spigot.SMP
+name: BetterSMP
+version: ${project.version}
+author: TryDev07
+api-version: 1.16

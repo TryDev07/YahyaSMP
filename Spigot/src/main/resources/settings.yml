@@ -1,0 +1,12 @@
+settings:
+  chatprefix: "{rank} {team} {player_name} {suffix}: {message}"
+  hostname: "localhost"
+  port: 3306
+  username: "root"
+  password: ""
+  database: ""
+
+Groups:
+  - Owner
+  - Developer
+  - Default
